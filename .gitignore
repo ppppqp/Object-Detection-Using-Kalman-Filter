@@ -3,3 +3,5 @@ venv
 .vscode
 CMakeLists.txt.user
 build
+.jpg
+.gif
