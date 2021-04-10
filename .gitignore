@@ -1,0 +1,5 @@
+__pycache__
+venv
+.vscode
+CMakeLists.txt.user
+build
