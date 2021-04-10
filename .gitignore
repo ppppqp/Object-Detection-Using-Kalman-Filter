@@ -3,5 +3,6 @@ venv
 .vscode
 CMakeLists.txt.user
 build
-.jpg
-.gif
+*.jpg
+*.gif
+/Vid_A_ball/*
